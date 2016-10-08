@@ -37,6 +37,9 @@ a{
 	padding: 0px 20px;
 	background: url(../images/fenge.png) no-repeat right;
 }
+#header ul .b{
+	padding: 0px 20px;
+}
 #content{
 	width: 1000px;
 	margin: 0 auto;
